@@ -180,7 +180,7 @@ const ChatBotPage = ({ language, currentMode }) => {
           {showCallFrame ? (
             <Box
               component="iframe"
-              src="put your vapi key here"
+              src="put your url here"
               sx={{
                 width: '200px',
                 height: '200px',
